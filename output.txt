@@ -1,0 +1,4 @@
+min - 0
+max - 9
+len - 5
+> median - 2
